@@ -1,0 +1,405 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2024-08-07T17:16:00Z",
+    "tools": [
+      {
+        "vendor": "cyclonedx",
+        "name": "cdxgen"
+      }
+    ],
+    "component": {
+      "type": "application",
+      "name": "dev-Hello-World-labs",
+      "version": "0.0.0"
+    }
+  },
+  "components": [
+    {
+      "type": "library",
+      "name": "nanoid",
+      "version": "4.6.6",
+      "purl": "pkg:npm/nanoid@4.6.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "iAximPIJ1HJzhlkg5OJpl0KAPrgWHChRBOPXFOPOm+c="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "Re6yyNPWssyvOQR+qVQ5jLDw7g7O1o5itnAcjcmUq17Od+6Z6ZXewY0+OTCh5z5wTYYn4ynmLgKw/O/fuZGJAw"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "type-fest",
+      "version": "3.14.11",
+      "purl": "pkg:npm/type-fest@3.14.11",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "70OUZj7tNJOqidfdMoqYS9bwL2qMR0gu7de2BdeUD6Y="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "Z730h3QeWZ9zQSCY6779I5O6CSopuMyrELlEYqyUfoO/XDD55wXbgwTMaIFM2s8V2502NJtGAmxW2L06nKzWPA"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "readable-stream",
+      "version": "1.1.7",
+      "purl": "pkg:npm/readable-stream@1.1.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7aG89p1zhqc2jbOD7wUuRptU3SYL0r83OrmrVmBOyeg="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "4voxNdsy904BVdQkKvkGcoFSepHl/jlah3xjc8wHbXEU87Mv0RiLPcd9Fa9di+eV71vTF/8vP3iCXDAW1f/3aQ"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "undici",
+      "version": "0.10.10",
+      "purl": "pkg:npm/undici@0.10.10",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "l2xpj8PuEFN3GdYacZs1P2D0GykkkTeNnJW6JmiR2X8="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "k6MsPrqT5+FH+q/Bu9waUTxJdga3zzZmboFTtnk62/XPnRmME2Mt23C1H8DFwjzexEGbKE5NiH95R43IjAQu5w"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "rimraf",
+      "version": "1.6.7",
+      "purl": "pkg:npm/rimraf@1.6.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6G47ble8VeMxCvyEsfcVFSViRGsXRSKariKumOl8Iu0="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "If2J8CDRUahwlWYfHU1PR76TCZrbH/ZS0KnVMneNVxs7zt/G63AK353xzFYKOvEsIbUdBCy4RPve+NKoug5H7g"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "get-stream",
+      "version": "0.9.11",
+      "purl": "pkg:npm/get-stream@0.9.11",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "NQsY655deDbqEFBkp607FvJRa7G+c9FHpYbkMGj9msg="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "v2gohXoZiGGI0pguccH4IGVS2I1BGMqJEiJ5SF/4gGNT/a0kGQNuwe8DaVyD1525xdUQ1w41k3/XDGjNRfJQkg"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "zod",
+      "version": "3.10.8",
+      "purl": "pkg:npm/zod@3.10.8",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "Uc6tOJZNfTIZ/Erj6YUM3W7711bzrgVvL1fsxLMriz8="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "NYJBUkIKpR+MHYKcddKPUVXEKzB29SVtaVtblSgbGZRq0UIli8T99LHDJ4vSA2Mhs1p5167caTghMOUOvYHEKw"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "cross-spawn",
+      "version": "4.8.11",
+      "purl": "pkg:npm/cross-spawn@4.8.11",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7f9yoQwtPO3Nf0LBPoVq+UtF7zqrBxmZnMY1lvv1KE4="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "ONpJX8q0GSTdpN7zKCyr/DZyzhMbE1Vn6It8dm1sAoWftRQj2HLwBuOWBOARQhkk4WKOggLjbh1XOrxfUS8Tng"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "yocto-queue",
+      "version": "2.10.8",
+      "purl": "pkg:npm/yocto-queue@2.10.8",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8FHGfN6w6ir85Q/GL6qQyGimzFNRs/PFa5QrHQnNSwc="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "HhFgPAKeKGNd3DMF+H3L3yDlnr12HXujGhdEMy8ONU2NoQyRAzkHDBDeCJ5442YpqpG6Nq0bZrgJTz3ruRAP7w"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "zod",
+      "version": "2.15.4",
+      "purl": "pkg:npm/zod@2.15.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "RGQbygVwePW0yLZi6omZ7aZC4hMh+Qq6Aln+0N9Ujwo="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "axnqRp4EwWHRY1p9IEe3tzdXrd+BJnHn8pogS6xLhaDS8u0Pj3n9ZIW5H2eJNkVL+m5K4XpAU7NNsS/av3AX7Q"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "ws",
+      "version": "6.6.1",
+      "purl": "pkg:npm/ws@6.6.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "AjREDoJuy84vvKiDJasAQ2MqfQhi2p05IzwSetNp7nM="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "OI05/z8v/sBuIRGIA7KElGKig4752VMhZ+ObRCm5f+qLekcBDn7W8OHk/iOKeSsmDoy6IqGEyr9Rca2Nn0N8lg"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "chalk",
+      "version": "0.15.6",
+      "purl": "pkg:npm/chalk@0.15.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "kewGCTRFOAIbN16kCrXerGfYSLUcSAsvUexhwIwteS4="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "PYW+kslHBiitPcjf9oGqvISoXDoXZ/MJKSp11OWjh1XMc8oj5bo6NO+Wg/Dk6RqWUaV4wJtViVF2IpA1XiHOwg"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "graceful-fs",
+      "version": "5.10.5",
+      "purl": "pkg:npm/graceful-fs@5.10.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "/I9B17+1lBIwEWWOJiSp84B8VhAHJNvWvtgAFWRt0Gc="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "iSvMI9JAhWH6bAPhC5oiX/pOs9qCq5Li7apZiBAixnyHA+bxEOIqI+3KIQWlKp68VXkNWFpwJgIwQCoJYD7cBg"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "cross-spawn",
+      "version": "3.19.7",
+      "purl": "pkg:npm/cross-spawn@3.19.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "vTp7RpEJfkvHT4kp2PlTqO00d10JyFpJoSJW/D1ovZc="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "u2mBv7cicUKZXCLc+fs5KnUOnqooas5lIoU91GEYvSUxGj99wfNu30CZACVBYNgmw5VJWZHcRUtUqKKYC9pgpQ"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "ms",
+      "version": "0.6.5",
+      "purl": "pkg:npm/ms@0.6.5",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "QqlgjE3DBqL3IGIT1wv/66SZW71Ii17Hr5ZPNpGrIP4="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "5ubtvNVswRxR0aKkWvlfitFtqCQKNSK6/5ahOH0I82PzdwarkBO/VWo+GwVOpjMZC4f2lPdC9wX7IEpRkEZB5A"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "yocto-queue",
+      "version": "2.4.6",
+      "purl": "pkg:npm/yocto-queue@2.4.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ISBKUcUTo0IGTT0Fw+CjkfhJ11WcieozNEIDkuokFrM="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "DCszYewVrXtP+ngbw+5/63dnvIULzzVR/YTOvasD6tb4FsKQw3hKpIGCriAGVwiv0ZaWU0xLLaQ/FmMfcUKomQ"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "yocto-queue",
+      "version": "4.8.9",
+      "purl": "pkg:npm/yocto-queue@4.8.9",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "/bicuqDlti+9jWEi41+G+uNvl5S85cLQJCXaSVrKHqo="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "W2N48A4NQGKI2/PpjjrQdHtpu0jbRm2ZR/s8J7G+swRFOs/dO1+TipHuai2OyuFPWLUStSIAFsdsiGXICHm5Sw"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "strip-ansi",
+      "version": "4.4.0",
+      "purl": "pkg:npm/strip-ansi@4.4.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5k4csrSqFwQoYzomUaNQrCHzXm7igAHg9g7LyzrME6Q="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "pMG4YpxH/HcrW37s/Goa9L8JtQKtBinIgCm9oBitEdnCUNsKHEP8ozVlQ/StgKuD4CjF0XdVM1fiXLgXorerIg"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "resolve",
+      "version": "1.2.6",
+      "purl": "pkg:npm/resolve@1.2.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e/G/wNYhqo8OJFvXRv6kyc8svcC3f0L9WcZg37LWq+w="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "ESiucJV5AYFpTT22+aB1OK7B2Hm4Zy9zvw80uZ1a/HUm6zBhnqbZWXnLRX2Ua+1pU23FqkilPVpDzPzdFr6InA"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "zod",
+      "version": "2.11.7",
+      "purl": "pkg:npm/zod@2.11.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "fcRLbtNB9LxwFuc4ysWUGuaWhoVWjrhxavRcbpiV3VE="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "8ELVhVjeTZKbGvOU0OUNT5c8h6rsCK4UvWYwfwE89YKkytJ0iw19UDef0dJCgx077gTgZ4RPC4wT0T+EnCxbaw"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "node-fetch",
+      "version": "6.4.2",
+      "purl": "pkg:npm/node-fetch@6.4.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "tKI6Z0Vn0L1dTaxcN/TGn2uw7GAlUExEOobgOieuHYE="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "AKA2cErzS9ySGRN3H6zDiVCKKJGKyrb3/tluGtUmqWIsPkLAiBwgWDVzTTPdKqqp6fpWW/i//OP8UbqfAa1UxQ"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "fast-glob",
+      "version": "1.7.9",
+      "purl": "pkg:npm/fast-glob@1.7.9",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6Zc6xE15fPmfKgJviE4rw6HA/T+8R3xO6/MHXwN8nU4="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "Ee40jPD6a92sAwf0VD1KKZL85nZ/0GDrl9nUxXdTv7frQuiig3B1FqysZ5/A2zckWkBEAzZwgEBECPKOBMZn9Q"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "graceful-fs",
+      "version": "4.0.0",
+      "purl": "pkg:npm/graceful-fs@4.0.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "UbA5WizJT6zYV7q02yoB9rna8Lwxp5FA53fH+wUi/Tk="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "bJybbZzz5F+RbFqPBTo7EJDICAcdelwNn2JbafIxVC2CJOjE7jNSbkt+SuSsKmry7GAuO1FvOwfe4GBVv0j4PQ"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "name": "cross-spawn",
+      "version": "0.6.6",
+      "purl": "pkg:npm/cross-spawn@0.6.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5qVCDRVFS3H+qOaSKmL0zWCGB2jEtgSSMJQsD2mqjkw="
+        },
+        {
+          "alg": "SHA-512",
+          "content": "GD5eBKeWKD0jxgVcT77uz+6EuKmEFC1mmbDGqEdqQaGDoQCCjKCn8P5kOFm5+kJNqAa1yeU2wXRFprvjOlRf2g"
+        }
+      ]
+    }
+  ]
+}
